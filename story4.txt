@@ -1,2 +1,1 @@
-create story 4
-edit story4 something
+clear
